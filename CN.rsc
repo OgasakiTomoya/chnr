@@ -1920,8 +1920,7 @@ add list=CN address=120.31.0.0/16 comment=AS4809
 add list=CN address=120.32.0.0/12 comment=AS4809
 add list=CN address=120.48.0.0/16 comment=AS4809
 add list=CN address=120.49.0.0/18 comment=AS4809
-add list=CN address=120.49.200.0/21 comment=AS4809
-add list=CN address=120.49.208.0/21 comment=AS4809
+add list=CN address=120.49.192.0/18 comment=AS4809
 add list=CN address=120.52.0.0/15 comment=AS4809
 add list=CN address=120.55.0.0/16 comment=AS4809
 add list=CN address=120.65.0.0/16 comment=AS4809
