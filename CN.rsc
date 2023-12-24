@@ -802,12 +802,6 @@ add list=CN address=103.44.176.0/22 comment=AS4809
 add list=CN address=103.44.236.0/22 comment=AS4809
 add list=CN address=103.44.240.0/20 comment=AS4809
 add list=CN address=103.45.72.0/21 comment=AS4809
-add list=CN address=103.45.97.0/24 comment=AS4809
-add list=CN address=103.45.98.0/23 comment=AS4809
-add list=CN address=103.45.100.0/22 comment=AS4809
-add list=CN address=103.45.104.0/21 comment=AS4809
-add list=CN address=103.45.112.0/20 comment=AS4809
-add list=CN address=103.45.128.0/19 comment=AS4809
 add list=CN address=103.45.160.0/22 comment=AS4809
 add list=CN address=103.45.172.0/22 comment=AS4809
 add list=CN address=103.45.176.0/20 comment=AS4809
