@@ -3230,7 +3230,7 @@ add list=CN address=218.98.108.0/23 comment=AS4809
 add list=CN address=218.98.111.0/24 comment=AS4809
 add list=CN address=218.98.112.0/22 comment=AS4809
 add list=CN address=218.98.160.0/24 comment=AS4809
-add list=CN address=218.98.176.0/24 comment=AS4809
+add list=CN address=218.98.176.0/23 comment=AS4809
 add list=CN address=218.104.0.0/15 comment=AS4809
 add list=CN address=218.106.0.0/16 comment=AS4809
 add list=CN address=218.107.0.0/18 comment=AS4809
