@@ -447,6 +447,7 @@ add list=CN address=54.222.32.0/21 comment=AS4809
 add list=CN address=54.222.45.0/24 comment=AS4809
 add list=CN address=54.222.48.0/21 comment=AS4809
 add list=CN address=54.222.57.0/24 comment=AS4809
+add list=CN address=54.222.59.0/24 comment=AS4809
 add list=CN address=54.222.60.0/22 comment=AS4809
 add list=CN address=54.222.70.0/23 comment=AS4809
 add list=CN address=54.222.72.0/21 comment=AS4809
