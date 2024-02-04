@@ -1417,6 +1417,8 @@ add list=CN address=113.31.88.0/23 comment=AS4809
 add list=CN address=113.31.96.0/19 comment=AS4809
 add list=CN address=113.31.144.0/20 comment=AS4809
 add list=CN address=113.31.160.0/19 comment=AS4809
+add list=CN address=113.44.0.0/18 comment=AS4809
+add list=CN address=113.44.64.0/19 comment=AS4809
 add list=CN address=113.45.128.0/17 comment=AS4809
 add list=CN address=113.48.48.0/20 comment=AS4809
 add list=CN address=113.48.224.0/20 comment=AS4809
