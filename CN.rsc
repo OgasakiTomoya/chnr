@@ -1959,7 +1959,12 @@ add list=CN address=122.49.8.0/21 comment=AS4809
 add list=CN address=122.49.16.0/20 comment=AS4809
 add list=CN address=122.49.32.0/20 comment=AS4809
 add list=CN address=122.51.0.0/16 comment=AS4809
-add list=CN address=122.64.0.0/11 comment=AS4809
+add list=CN address=122.64.0.0/12 comment=AS4809
+add list=CN address=122.80.0.0/13 comment=AS4809
+add list=CN address=122.88.0.0/15 comment=AS4809
+add list=CN address=122.90.0.0/16 comment=AS4809
+add list=CN address=122.91.0.0/17 comment=AS4809
+add list=CN address=122.92.0.0/14 comment=AS4809
 add list=CN address=122.96.0.0/15 comment=AS4809
 add list=CN address=122.102.64.0/20 comment=AS4809
 add list=CN address=122.112.0.0/18 comment=AS4809
