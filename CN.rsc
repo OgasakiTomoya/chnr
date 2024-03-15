@@ -2035,8 +2035,7 @@ add list=CN address=123.58.160.0/19 comment=AS4809
 add list=CN address=123.58.224.0/19 comment=AS4809
 add list=CN address=123.59.0.0/16 comment=AS4809
 add list=CN address=123.60.0.0/15 comment=AS4809
-add list=CN address=123.64.255.0/24 comment=AS4809
-add list=CN address=123.65.0.0/16 comment=AS4809
+add list=CN address=123.64.0.0/15 comment=AS4809
 add list=CN address=123.66.0.0/16 comment=AS4809
 add list=CN address=123.77.0.0/16 comment=AS4809
 add list=CN address=123.82.0.0/17 comment=AS4809
