@@ -613,6 +613,7 @@ add list=CN address=101.52.6.0/24 comment=AS4809
 add list=CN address=101.52.112.0/21 comment=AS4809
 add list=CN address=101.52.124.0/22 comment=AS4809
 add list=CN address=101.52.128.0/20 comment=AS4809
+add list=CN address=101.52.200.0/21 comment=AS4809
 add list=CN address=101.52.212.0/22 comment=AS4809
 add list=CN address=101.52.216.0/21 comment=AS4809
 add list=CN address=101.52.236.0/22 comment=AS4809
