@@ -2027,6 +2027,7 @@ add list=CN address=122.119.160.0/23 comment=AS4809
 add list=CN address=122.119.172.0/24 comment=AS4809
 add list=CN address=122.119.180.0/22 comment=AS4809
 add list=CN address=122.119.190.0/24 comment=AS4809
+add list=CN address=122.119.224.0/22 comment=AS4809
 add list=CN address=122.119.232.0/23 comment=AS4809
 add list=CN address=122.119.236.0/24 comment=AS4809
 add list=CN address=122.136.0.0/13 comment=AS4809
