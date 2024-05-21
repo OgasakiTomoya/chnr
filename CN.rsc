@@ -35,6 +35,7 @@ add list=CN address=8.136.0.0/13 comment=AS4809
 add list=CN address=8.144.0.0/14 comment=AS4809
 add list=CN address=8.148.0.0/19 comment=AS4809
 add list=CN address=8.148.32.0/22 comment=AS4809
+add list=CN address=8.148.128.0/17 comment=AS4809
 add list=CN address=8.149.0.0/16 comment=AS4809
 add list=CN address=14.16.0.0/12 comment=AS4809
 add list=CN address=14.103.0.0/18 comment=AS4809
