@@ -690,7 +690,7 @@ add list=CN address=101.254.0.0/20 comment=AS4809
 add list=CN address=101.254.32.0/19 comment=AS4809
 add list=CN address=101.254.64.0/18 comment=AS4809
 add list=CN address=101.254.128.0/17 comment=AS4809
-add list=CN address=103.1.10.0/23 comment=AS4809
+add list=CN address=103.1.8.0/22 comment=AS4809
 add list=CN address=103.1.168.0/22 comment=AS4809
 add list=CN address=103.2.108.0/22 comment=AS4809
 add list=CN address=103.2.208.0/22 comment=AS4809
