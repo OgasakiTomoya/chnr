@@ -1269,7 +1269,7 @@ add list=CN address=103.254.68.0/22 comment=AS4809
 add list=CN address=103.254.76.0/22 comment=AS4809
 add list=CN address=103.254.112.0/22 comment=AS4809
 add list=CN address=103.254.188.0/22 comment=AS4809
-add list=CN address=103.255.88.0/21 comment=AS4809
+add list=CN address=103.255.92.0/22 comment=AS4809
 add list=CN address=103.255.140.0/22 comment=AS4809
 add list=CN address=103.255.200.0/22 comment=AS4809
 add list=CN address=106.0.4.0/22 comment=AS4809
