@@ -1,6 +1,5 @@
 /ip firewall address-list
 add list=CN address=1.1.8.0/24 comment=AS4809
-add list=CN address=1.2.4.0/24 comment=AS4809
 add list=CN address=1.8.1.0/24 comment=AS4809
 add list=CN address=1.8.8.0/24 comment=AS4809
 add list=CN address=1.12.0.0/14 comment=AS4809
@@ -2188,7 +2187,6 @@ add list=CN address=125.171.0.0/16 comment=AS4809
 add list=CN address=125.208.0.0/19 comment=AS4809
 add list=CN address=125.208.37.0/24 comment=AS4809
 add list=CN address=125.208.40.0/24 comment=AS4809
-add list=CN address=125.208.46.0/24 comment=AS4809
 add list=CN address=125.210.0.0/15 comment=AS4809
 add list=CN address=125.213.32.0/20 comment=AS4809
 add list=CN address=125.215.0.0/18 comment=AS4809
