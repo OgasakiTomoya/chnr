@@ -3060,7 +3060,9 @@ add list=CN address=211.92.192.0/19 comment=AS4809
 add list=CN address=211.92.224.0/20 comment=AS4809
 add list=CN address=211.92.240.0/21 comment=AS4809
 add list=CN address=211.93.0.0/17 comment=AS4809
-add list=CN address=211.93.128.0/18 comment=AS4809
+add list=CN address=211.93.128.0/20 comment=AS4809
+add list=CN address=211.93.144.0/21 comment=AS4809
+add list=CN address=211.93.160.0/19 comment=AS4809
 add list=CN address=211.93.192.0/21 comment=AS4809
 add list=CN address=211.93.200.0/23 comment=AS4809
 add list=CN address=211.93.204.0/22 comment=AS4809
