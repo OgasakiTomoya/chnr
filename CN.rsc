@@ -2930,7 +2930,7 @@ add list=CN address=203.189.0.0/23 comment=AS4809
 add list=CN address=203.189.6.0/23 comment=AS4809
 add list=CN address=203.189.192.0/19 comment=AS4809
 add list=CN address=203.189.240.0/22 comment=AS4809
-add list=CN address=203.190.100.0/24 comment=AS4809
+add list=CN address=203.190.100.0/23 comment=AS4809
 add list=CN address=203.191.0.0/23 comment=AS4809
 add list=CN address=203.191.144.0/21 comment=AS4809
 add list=CN address=203.192.1.0/24 comment=AS4809
