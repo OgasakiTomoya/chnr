@@ -1076,7 +1076,6 @@ add list=CN address=103.151.148.0/23 comment=AS4809
 add list=CN address=103.152.28.0/23 comment=AS4809
 add list=CN address=103.152.56.0/23 comment=AS4809
 add list=CN address=103.152.76.0/23 comment=AS4809
-add list=CN address=103.152.186.0/23 comment=AS4809
 add list=CN address=103.152.224.0/24 comment=AS4809
 add list=CN address=103.154.30.0/23 comment=AS4809
 add list=CN address=103.154.41.0/24 comment=AS4809
@@ -1304,7 +1303,6 @@ add list=CN address=103.251.204.0/23 comment=AS4809
 add list=CN address=103.251.206.0/24 comment=AS4809
 add list=CN address=103.251.240.0/22 comment=AS4809
 add list=CN address=103.252.36.0/24 comment=AS4809
-add list=CN address=103.252.172.0/22 comment=AS4809
 add list=CN address=103.252.208.0/22 comment=AS4809
 add list=CN address=103.252.248.0/22 comment=AS4809
 add list=CN address=103.253.60.0/22 comment=AS4809
@@ -1658,7 +1656,9 @@ add list=CN address=115.85.192.0/18 comment=AS4809
 add list=CN address=115.102.0.0/16 comment=AS4809
 add list=CN address=115.120.0.0/17 comment=AS4809
 add list=CN address=115.120.130.0/24 comment=AS4809
+add list=CN address=115.120.134.0/23 comment=AS4809
 add list=CN address=115.120.136.0/21 comment=AS4809
+add list=CN address=115.120.144.0/20 comment=AS4809
 add list=CN address=115.120.192.0/18 comment=AS4809
 add list=CN address=115.124.16.0/20 comment=AS4809
 add list=CN address=115.148.0.0/14 comment=AS4809
@@ -3433,7 +3433,10 @@ add list=CN address=219.159.0.0/16 comment=AS4809
 add list=CN address=219.216.0.0/13 comment=AS4809
 add list=CN address=219.224.0.0/13 comment=AS4809
 add list=CN address=219.232.0.0/17 comment=AS4809
-add list=CN address=219.232.128.0/20 comment=AS4809
+add list=CN address=219.232.128.0/21 comment=AS4809
+add list=CN address=219.232.136.0/23 comment=AS4809
+add list=CN address=219.232.138.0/24 comment=AS4809
+add list=CN address=219.232.142.0/23 comment=AS4809
 add list=CN address=219.232.160.0/19 comment=AS4809
 add list=CN address=219.232.192.0/19 comment=AS4809
 add list=CN address=219.233.0.0/16 comment=AS4809
