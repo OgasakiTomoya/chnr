@@ -1982,7 +1982,10 @@ add list=CN address=119.3.0.0/16 comment=AS4809
 add list=CN address=119.4.0.0/14 comment=AS4809
 add list=CN address=119.15.136.0/23 comment=AS4809
 add list=CN address=119.15.140.0/23 comment=AS4809
-add list=CN address=119.18.192.0/20 comment=AS4809
+add list=CN address=119.18.192.0/22 comment=AS4809
+add list=CN address=119.18.196.0/23 comment=AS4809
+add list=CN address=119.18.198.0/24 comment=AS4809
+add list=CN address=119.18.207.0/24 comment=AS4809
 add list=CN address=119.18.208.0/21 comment=AS4809
 add list=CN address=119.23.0.0/16 comment=AS4809
 add list=CN address=119.27.64.0/18 comment=AS4809
