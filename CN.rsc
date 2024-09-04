@@ -1782,7 +1782,10 @@ add list=CN address=116.196.0.0/21 comment=AS4809
 add list=CN address=116.196.8.0/22 comment=AS4809
 add list=CN address=116.196.12.0/23 comment=AS4809
 add list=CN address=116.196.64.0/18 comment=AS4809
-add list=CN address=116.196.128.0/19 comment=AS4809
+add list=CN address=116.196.130.0/23 comment=AS4809
+add list=CN address=116.196.132.0/22 comment=AS4809
+add list=CN address=116.196.136.0/23 comment=AS4809
+add list=CN address=116.196.144.0/20 comment=AS4809
 add list=CN address=116.196.192.0/21 comment=AS4809
 add list=CN address=116.196.218.0/23 comment=AS4809
 add list=CN address=116.196.220.0/22 comment=AS4809
