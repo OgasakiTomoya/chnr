@@ -2516,6 +2516,8 @@ add list=CN address=123.8.0.0/13 comment=AS4809
 add list=CN address=123.49.192.0/23 comment=AS4809
 add list=CN address=123.49.195.0/24 comment=AS4809
 add list=CN address=123.49.196.0/24 comment=AS4809
+add list=CN address=123.49.240.0/24 comment=AS4809
+add list=CN address=123.49.242.0/23 comment=AS4809
 add list=CN address=123.49.245.0/24 comment=AS4809
 add list=CN address=123.52.0.0/14 comment=AS4809
 add list=CN address=123.56.0.0/15 comment=AS4809
