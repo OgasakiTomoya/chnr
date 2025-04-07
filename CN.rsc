@@ -2830,6 +2830,7 @@ add list=CN address=156.107.170.0/24 comment=AS4809
 add list=CN address=156.107.179.0/24 comment=AS4809
 add list=CN address=156.107.181.0/24 comment=AS4809
 add list=CN address=156.224.128.0/24 comment=AS4809
+add list=CN address=156.224.139.0/24 comment=AS4809
 add list=CN address=156.224.168.0/24 comment=AS4809
 add list=CN address=156.224.176.0/24 comment=AS4809
 add list=CN address=156.224.184.0/24 comment=AS4809
