@@ -915,7 +915,6 @@ add list=CN address=103.37.160.0/21 comment=AS4809
 add list=CN address=103.37.172.0/22 comment=AS4809
 add list=CN address=103.38.40.0/22 comment=AS4809
 add list=CN address=103.38.84.0/22 comment=AS4809
-add list=CN address=103.38.92.0/23 comment=AS4809
 add list=CN address=103.38.116.0/22 comment=AS4809
 add list=CN address=103.38.224.0/22 comment=AS4809
 add list=CN address=103.38.232.0/22 comment=AS4809
@@ -1112,7 +1111,8 @@ add list=CN address=103.108.244.0/24 comment=AS4809
 add list=CN address=103.108.247.0/24 comment=AS4809
 add list=CN address=103.110.132.0/22 comment=AS4809
 add list=CN address=103.111.64.0/24 comment=AS4809
-add list=CN address=103.113.4.0/22 comment=AS4809
+add list=CN address=103.113.5.0/24 comment=AS4809
+add list=CN address=103.113.6.0/23 comment=AS4809
 add list=CN address=103.114.100.0/22 comment=AS4809
 add list=CN address=103.114.236.0/22 comment=AS4809
 add list=CN address=103.115.120.0/24 comment=AS4809
@@ -2063,7 +2063,8 @@ add list=CN address=118.190.0.0/16 comment=AS4809
 add list=CN address=118.191.0.0/21 comment=AS4809
 add list=CN address=118.191.8.0/22 comment=AS4809
 add list=CN address=118.191.12.0/24 comment=AS4809
-add list=CN address=118.192.0.0/17 comment=AS4809
+add list=CN address=118.192.32.0/19 comment=AS4809
+add list=CN address=118.192.96.0/19 comment=AS4809
 add list=CN address=118.193.96.0/19 comment=AS4809
 add list=CN address=118.194.32.0/19 comment=AS4809
 add list=CN address=118.194.128.0/21 comment=AS4809
@@ -3634,9 +3635,6 @@ add list=CN address=211.150.124.0/23 comment=AS4809
 add list=CN address=211.150.128.0/24 comment=AS4809
 add list=CN address=211.151.0.0/16 comment=AS4809
 add list=CN address=211.152.0.0/17 comment=AS4809
-add list=CN address=211.152.192.0/22 comment=AS4809
-add list=CN address=211.152.196.0/23 comment=AS4809
-add list=CN address=211.152.208.0/20 comment=AS4809
 add list=CN address=211.153.0.0/16 comment=AS4809
 add list=CN address=211.154.0.0/19 comment=AS4809
 add list=CN address=211.154.64.0/18 comment=AS4809
