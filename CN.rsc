@@ -848,8 +848,6 @@ add list=CN address=101.240.0.0/14 comment=AS4809
 add list=CN address=101.245.0.0/23 comment=AS4809
 add list=CN address=101.245.16.0/23 comment=AS4809
 add list=CN address=101.245.32.0/21 comment=AS4809
-add list=CN address=101.245.48.0/20 comment=AS4809
-add list=CN address=101.245.64.0/18 comment=AS4809
 add list=CN address=101.246.172.0/22 comment=AS4809
 add list=CN address=101.246.176.0/20 comment=AS4809
 add list=CN address=101.248.0.0/15 comment=AS4809
