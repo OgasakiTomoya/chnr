@@ -436,6 +436,7 @@ add list=CN address=45.119.105.0/24 comment=AS4809
 add list=CN address=45.119.116.0/22 comment=AS4809
 add list=CN address=45.120.100.0/22 comment=AS4809
 add list=CN address=45.120.164.0/22 comment=AS4809
+add list=CN address=45.120.241.0/24 comment=AS4809
 add list=CN address=45.120.243.0/24 comment=AS4809
 add list=CN address=45.123.128.0/22 comment=AS4809
 add list=CN address=45.123.168.0/21 comment=AS4809
