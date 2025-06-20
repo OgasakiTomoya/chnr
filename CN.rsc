@@ -877,8 +877,7 @@ add list=CN address=102.130.112.0/20 comment=AS4809
 add list=CN address=102.134.32.0/22 comment=AS4809
 add list=CN address=102.134.56.0/22 comment=AS4809
 add list=CN address=102.134.128.0/24 comment=AS4809
-add list=CN address=102.135.160.0/23 comment=AS4809
-add list=CN address=102.135.163.0/24 comment=AS4809
+add list=CN address=102.135.160.0/22 comment=AS4809
 add list=CN address=102.207.124.0/23 comment=AS4809
 add list=CN address=102.208.216.0/24 comment=AS4809
 add list=CN address=102.209.116.0/22 comment=AS4809
