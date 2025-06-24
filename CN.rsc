@@ -871,10 +871,7 @@ add list=CN address=102.69.188.0/24 comment=AS4809
 add list=CN address=102.69.191.0/24 comment=AS4809
 add list=CN address=102.128.172.0/24 comment=AS4809
 add list=CN address=102.129.165.0/24 comment=AS4809
-add list=CN address=102.130.112.0/23 comment=AS4809
-add list=CN address=102.130.114.0/24 comment=AS4809
-add list=CN address=102.130.116.0/22 comment=AS4809
-add list=CN address=102.130.120.0/21 comment=AS4809
+add list=CN address=102.130.112.0/20 comment=AS4809
 add list=CN address=102.134.32.0/22 comment=AS4809
 add list=CN address=102.134.56.0/22 comment=AS4809
 add list=CN address=102.134.88.0/22 comment=AS4809
