@@ -2328,10 +2328,8 @@ add list=CN address=119.235.136.0/24 comment=AS4809
 add list=CN address=119.235.138.0/24 comment=AS4809
 add list=CN address=119.235.143.0/24 comment=AS4809
 add list=CN address=119.235.144.0/24 comment=AS4809
-add list=CN address=119.235.146.0/24 comment=AS4809
 add list=CN address=119.235.151.0/24 comment=AS4809
 add list=CN address=119.235.160.0/23 comment=AS4809
-add list=CN address=119.235.162.0/24 comment=AS4809
 add list=CN address=119.235.167.0/24 comment=AS4809
 add list=CN address=119.235.185.0/24 comment=AS4809
 add list=CN address=119.248.0.0/14 comment=AS4809
