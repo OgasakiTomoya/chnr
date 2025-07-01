@@ -1759,7 +1759,7 @@ add list=CN address=111.235.170.0/23 comment=AS4809
 add list=CN address=111.235.172.0/23 comment=AS4809
 add list=CN address=111.235.174.0/24 comment=AS4809
 add list=CN address=111.235.178.0/23 comment=AS4809
-add list=CN address=111.235.181.0/24 comment=AS4809
+add list=CN address=111.235.180.0/23 comment=AS4809
 add list=CN address=111.235.182.0/24 comment=AS4809
 add list=CN address=112.0.0.0/10 comment=AS4809
 add list=CN address=112.64.0.0/14 comment=AS4809
