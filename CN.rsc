@@ -418,7 +418,10 @@ add list=CN address=47.112.0.0/13 comment=AS4809
 add list=CN address=47.120.0.0/14 comment=AS4809
 add list=CN address=49.4.0.0/18 comment=AS4809
 add list=CN address=49.4.64.0/19 comment=AS4809
-add list=CN address=49.4.96.0/20 comment=AS4809
+add list=CN address=49.4.96.0/21 comment=AS4809
+add list=CN address=49.4.104.0/22 comment=AS4809
+add list=CN address=49.4.108.0/23 comment=AS4809
+add list=CN address=49.4.110.0/24 comment=AS4809
 add list=CN address=49.4.112.0/21 comment=AS4809
 add list=CN address=49.4.120.0/22 comment=AS4809
 add list=CN address=49.4.124.0/23 comment=AS4809
