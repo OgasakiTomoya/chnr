@@ -1040,6 +1040,7 @@ add list=CN address=103.105.180.0/22 comment=AS4809
 add list=CN address=103.105.184.0/22 comment=AS4809
 add list=CN address=103.105.200.0/23 comment=AS4809
 add list=CN address=103.105.202.0/24 comment=AS4809
+add list=CN address=103.105.220.0/22 comment=AS4809
 add list=CN address=103.106.36.0/22 comment=AS4809
 add list=CN address=103.106.252.0/22 comment=AS4809
 add list=CN address=103.107.0.0/22 comment=AS4809
