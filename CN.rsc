@@ -3198,8 +3198,6 @@ add list=CN address=203.94.0.0/19 comment=AS4809
 add list=CN address=203.95.0.0/23 comment=AS4809
 add list=CN address=203.95.2.0/24 comment=AS4809
 add list=CN address=203.95.4.0/22 comment=AS4809
-add list=CN address=203.95.96.0/22 comment=AS4809
-add list=CN address=203.95.104.0/21 comment=AS4809
 add list=CN address=203.95.128.0/23 comment=AS4809
 add list=CN address=203.99.21.0/24 comment=AS4809
 add list=CN address=203.99.22.0/23 comment=AS4809
