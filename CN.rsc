@@ -943,7 +943,6 @@ add list=CN address=103.56.76.0/22 comment=AS4809
 add list=CN address=103.56.100.0/22 comment=AS4809
 add list=CN address=103.56.104.0/22 comment=AS4809
 add list=CN address=103.56.152.0/22 comment=AS4809
-add list=CN address=103.56.184.0/22 comment=AS4809
 add list=CN address=103.57.12.0/22 comment=AS4809
 add list=CN address=103.57.136.0/23 comment=AS4809
 add list=CN address=103.57.139.0/24 comment=AS4809
