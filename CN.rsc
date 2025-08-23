@@ -443,7 +443,6 @@ add list=CN address=49.4.120.0/22 comment=AS4809
 add list=CN address=49.4.124.0/23 comment=AS4809
 add list=CN address=49.4.126.0/24 comment=AS4809
 add list=CN address=49.4.128.0/22 comment=AS4809
-add list=CN address=49.5.13.0/24 comment=AS4809
 add list=CN address=49.7.0.0/16 comment=AS4809
 add list=CN address=49.52.0.0/14 comment=AS4809
 add list=CN address=49.64.0.0/11 comment=AS4809
