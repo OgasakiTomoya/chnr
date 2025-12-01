@@ -1979,8 +1979,8 @@ add list=CN address=117.124.98.0/24 comment=AS4809
 add list=CN address=117.124.231.0/24 comment=AS4809
 add list=CN address=117.124.232.0/22 comment=AS4809
 add list=CN address=117.124.236.0/23 comment=AS4809
-add list=CN address=117.124.240.0/23 comment=AS4809
-add list=CN address=117.124.242.0/24 comment=AS4809
+add list=CN address=117.124.240.0/22 comment=AS4809
+add list=CN address=117.124.244.0/24 comment=AS4809
 add list=CN address=117.126.0.0/16 comment=AS4809
 add list=CN address=117.128.0.0/10 comment=AS4809
 add list=CN address=118.24.0.0/15 comment=AS4809
