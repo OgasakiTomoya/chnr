@@ -1900,7 +1900,8 @@ add list=CN address=117.126.0.0/16 comment=AS4809
 add list=CN address=117.128.0.0/10 comment=AS4809
 add list=CN address=118.24.0.0/15 comment=AS4809
 add list=CN address=118.26.48.0/22 comment=AS4809
-add list=CN address=118.26.64.0/21 comment=AS4809
+add list=CN address=118.26.64.0/23 comment=AS4809
+add list=CN address=118.26.68.0/23 comment=AS4809
 add list=CN address=118.26.72.0/22 comment=AS4809
 add list=CN address=118.26.96.0/21 comment=AS4809
 add list=CN address=118.26.116.0/22 comment=AS4809
