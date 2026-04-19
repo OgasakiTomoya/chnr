@@ -1023,7 +1023,7 @@ add list=CN address=103.96.214.0/23 comment=AS4809
 add list=CN address=103.96.224.0/23 comment=AS4809
 add list=CN address=103.97.60.0/24 comment=AS4809
 add list=CN address=103.97.112.0/23 comment=AS4809
-add list=CN address=103.98.44.0/22 comment=AS4809
+add list=CN address=103.98.46.0/23 comment=AS4809
 add list=CN address=103.98.125.0/24 comment=AS4809
 add list=CN address=103.98.127.0/24 comment=AS4809
 add list=CN address=103.98.220.0/22 comment=AS4809
