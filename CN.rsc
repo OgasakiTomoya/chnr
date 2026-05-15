@@ -615,8 +615,6 @@ add list=CN address=61.10.128.0/20 comment=AS4809
 add list=CN address=61.10.160.0/19 comment=AS4809
 add list=CN address=61.10.192.0/18 comment=AS4809
 add list=CN address=61.15.0.0/18 comment=AS4809
-add list=CN address=61.15.112.0/20 comment=AS4809
-add list=CN address=61.15.128.0/17 comment=AS4809
 add list=CN address=61.18.0.0/17 comment=AS4809
 add list=CN address=61.28.20.0/24 comment=AS4809
 add list=CN address=61.28.22.0/24 comment=AS4809
