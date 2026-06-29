@@ -2851,7 +2851,6 @@ add list=CN address=185.80.200.0/22 comment=AS4809
 add list=CN address=185.183.84.0/24 comment=AS4809
 add list=CN address=185.194.148.0/24 comment=AS4809
 add list=CN address=185.201.226.0/23 comment=AS4809
-add list=CN address=187.54.48.0/23 comment=AS4809
 add list=CN address=188.131.128.0/17 comment=AS4809
 add list=CN address=192.6.161.0/24 comment=AS4809
 add list=CN address=192.6.243.0/24 comment=AS4809
